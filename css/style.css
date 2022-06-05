@@ -1,0 +1,15 @@
+@import url(../reset/reset.css);
+@import url(../css/_header.css);
+@import url(../css/style-grid.css);
+@import url(../css/_course.css);
+@import url(../css/_campos.css);
+@import url(../css/_facilities.css);
+@import url(../css/_comments.css); 
+@import url(../css/_contact.css); 
+@import url(../css/_footer.css); 
+@import url(../css/_scroll-linetime.css); 
+
+
+body{
+    overflow-x: hidden!important;
+}

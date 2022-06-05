@@ -1,0 +1,45 @@
+/* start campus style */
+
+.compus-col{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.compus-col img{
+    border-radius: 10px;
+    transition: .5s ease;
+}
+.compus-col .overlay-compus{
+    width: 100%;
+    border-radius: 10px;
+    top: 0;
+    right: 0;
+    height: 100%;
+    background-color: rgba(256, 0, 0, .6);
+    opacity: 0;
+    transition: .5s ease;
+}
+.compus-col p{
+    font-size: 35px;
+    color: #fff;
+    bottom: 0;
+    font-weight: 500;
+    transition:all .5s ease;
+    opacity: 0;
+}
+.compus-col:hover .overlay-compus{
+    opacity: 1;
+    z-index: 2;
+}
+.compus-col:hover p{
+    opacity: 1;
+    bottom: 47%;
+    z-index: 3;
+}
+.compus-col:hover img{
+    transform: scale(1.2);
+}

@@ -1,0 +1,28 @@
+/* .scrollProgress{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background-color: #f44336;
+    height: 3px;
+    transform: translateX(-100%);
+    animation: scrollProgress 1s linear both;
+    animation-timeline: scrollProgress;
+}
+@scroll-timeline scrollProgress{
+    time-range: 1s;
+}
+@keyframes scrollProgress{
+    to{ transform: translateX(0); }
+} */
+::-webkit-scrollbar{
+    width: .8rem;
+}
+::-webkit-scrollbar-track{
+    /* border-radius: 1rem; */
+    background: rgb(225, 225, 255);
+    /* margin-block: .5em; */
+}
+::-webkit-scrollbar-thumb{
+    border-radius: 1rem;
+    background: linear-gradient(#6363ff,#56daff);
+}

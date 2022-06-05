@@ -1,0 +1,35 @@
+footer{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 15px;
+}
+footer h4{
+    font-weight: 500;
+    font-size: 19px;
+    margin-bottom: 30px;
+    color: #003b6eee;
+}
+footer p:nth-child(2){
+    color: #4b0d6b;
+    margin-bottom: 25px;
+}
+footer .social-footer i{
+    color: #c79f6a;
+    padding: 0 13px;
+    margin:0 0 15px;
+}
+footer p:last-child{
+    color: #4b0d6b;
+}
+footer p:last-child > span > i{
+    color: #ed2553;
+}
+@media(max-width:600px){
+    footer h4{
+        margin-bottom: 11px;
+    }
+    footer p:nth-child(2){
+        font-size: 13px;
+        margin-bottom: 13px;
+    }
+}

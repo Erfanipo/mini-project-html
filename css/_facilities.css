@@ -1,0 +1,25 @@
+.card{
+    background-color: #f7f7f7;
+    border-radius: 10px;
+}
+.card .card-header{
+    overflow: hidden;
+}
+.card .card-header img{
+    border-radius: 10px;
+}
+.card .card-body{
+    text-align: left;
+}
+.card .card-body h3,p{
+    font-family: sans-serif;
+}
+.card .card-body h3{
+    font-size: 20px;
+    padding: 7px;
+}
+.card .card-body p{
+    color: #747474;
+    padding: 10px;
+    line-height: 1.4;
+}
