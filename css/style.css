@@ -20,7 +20,7 @@ p{
 }
 =======
 li a {
-    font-size: 2rem;
-    color: gold;
+    font-size: 2rem!important;
+    color: gold!important;
 }
 >>>>>>> theme2
