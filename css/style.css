@@ -13,3 +13,8 @@
 body{
     overflow-x: hidden!important;
 }
+
+li a {
+    font-size: 2rem;
+    color: gold;
+}
