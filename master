@@ -1,0 +1,67 @@
+[33mcommit 56e8e3c669af060acd51fc07a98de38d9f0a2730[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 46d033d a6dff49
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 12:33:36 2022 +0430
+
+    fix-conflict
+
+[33mcommit 46d033d9652201030a34f21de6283f4fe07ae046[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 12:32:18 2022 +0430
+
+    change-lang
+
+[33mcommit a6dff490e2600a786e8c9f7893f9df7f14c3f974[m[33m ([m[1;32mfeatur[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 12:31:26 2022 +0430
+
+    change-lang
+
+[33mcommit 5c3bede8aeae2b659be3eff7a912e9a9aa0c285d[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 12:06:21 2022 +0430
+
+    test
+
+[33mcommit 427612c65498ab5a5ac71f0cc1ed99fdf16d2e17[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 01:55:33 2022 +0430
+
+    fixed-bug-color
+
+[33mcommit aaae54dc30c83a9526b04da0905735c0c6ab4427[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 01:52:21 2022 +0430
+
+    test
+
+[33mcommit 10b529b95eca5d5093bf2b82d4b115b0a6d35869[m[33m ([m[1;32mdevelop[m[33m)[m
+Merge: b5f9a5a a71eb84
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 01:44:42 2022 +0430
+
+    merge-theme2
+
+[33mcommit a71eb84dd4e6c07e68f049df87cd57ad8423ff3f[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 01:41:24 2022 +0430
+
+    add-color-theme2
+
+[33mcommit 13c0543d42b162429a1c2efd516896f47fd0f9b9[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 01:39:55 2022 +0430
+
+    change-color-menu
+
+[33mcommit b5f9a5a21a9ac721a28b712243dffd223b2e5095[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 01:32:41 2022 +0430
+
+    add-theme2
+
+[33mcommit 4a68a162871bfcac2ea12dd4942fe688e6d06c08[m
+Author: Your Name <you@example.com>
+Date:   Mon Jun 6 01:24:18 2022 +0430
+
+    initial-commit
